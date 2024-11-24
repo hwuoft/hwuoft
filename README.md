@@ -18,7 +18,7 @@ I am a passionate computer science student specializing in software engineering 
 
 ## 🖥️ Technologies I Use  
 ### **Languages**  
-- Java | Python | C  
+- Java | Python | C  | Shell Scripting
 
 ### **Frameworks & Tools**   
 - SpringBoot | JUnit | Mockito  
