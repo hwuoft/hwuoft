@@ -23,7 +23,8 @@ I am a passionate computer science student specializing in software engineering 
 ### **Frameworks & Tools**  
 - SpringBoot | JUnit | Mockito  
 - Kubernetes | AWS | Terraform  
-- Jenkins  | Groovy
+- Jenkins | Groovy | Makefile
+- Django | React | SQL
 
 ---
 
