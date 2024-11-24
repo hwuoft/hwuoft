@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Henry
 
 🎓 **Class of 2027** | **University of Toronto**  
 💻 **Major:** Computer Science  
@@ -23,7 +23,7 @@ I am a passionate computer science student specializing in software engineering 
 ### **Frameworks & Tools**  
 - SpringBoot | JUnit | Mockito  
 - Kubernetes | AWS | Terraform  
-- Jenkins  
+- Jenkins  | Groovy
 
 ---
 
