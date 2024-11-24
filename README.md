@@ -20,11 +20,12 @@ I am a passionate computer science student specializing in software engineering 
 ### **Languages**  
 - Java | Python | C  
 
-### **Frameworks & Tools**  
+### **Frameworks & Tools**   
 - SpringBoot | JUnit | Mockito  
 - Kubernetes | AWS | Terraform  
 - Jenkins | Groovy | Makefile
 - Django | React | SQL
+- Confluence | Jira | Agile 
 
 ---
 
