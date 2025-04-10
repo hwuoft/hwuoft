@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Henry
 
-- 🎓 Class of 2026 | **University of Toronto**  
+- 🎓 Class of 2027 | **University of Toronto**  
 - 💻 Major: Computer Science
 - 🌱 a __Full-Stack Engineer__ intern
 
