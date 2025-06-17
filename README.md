@@ -32,5 +32,5 @@ I am a passionate computer science student specializing in software engineering 
 Feel free to check out my projects and contributions. I'm always open to collaboration and new opportunities!
 
 📫 **Contact Me:**  
-shaohanw@cs.utoronto.ca
+[Instagram](https://www.instagram.com/henryinsh)
 
