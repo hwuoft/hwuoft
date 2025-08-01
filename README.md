@@ -5,7 +5,7 @@
 - 🌱 a __Full-Stack Engineer__ intern
 
 ## 🌟 About Me  
-I am a passionate computer science student specializing in software engineering and cloud technologies. With experience as both a **Full-Stack Engineer** and a **Site Reliability Engineer**, I thrive on solving complex problems and building scalable systems.
+I am a passionate computer science student specializing in software engineering and cloud technologies. With experience as both a **Full-Stack Engineer** and a **Site Reliability Engineer**, I enjoy solving complex problems and building scalable systems.
 
 ---
 
