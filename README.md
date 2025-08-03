@@ -24,7 +24,8 @@ I am a passionate computer science student specializing in software engineering 
 - Kubernetes | AWS | Terraform  
 - Jenkins | Groovy | Makefile
 - Django | React | SQL
-- Confluence | Jira | Agile 
+- Confluence | Jira | Agile
+- MongoDB
 
 ---
 
